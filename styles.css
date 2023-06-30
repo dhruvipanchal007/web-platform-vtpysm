@@ -8,11 +8,11 @@ body {
   color: #606368;
   font-weight: 400;
 }
-section{
+section {
   scroll-margin: 90px;
 }
 
-.first-page{
+.first-page {
   background-image: url(https://templatemo.com/templates/templatemo_504_page_one/img/bg-01.jpg);
   background-position: center;
   background-size: cover;
@@ -67,11 +67,11 @@ strong {
   display: block;
   margin-left: auto;
 }
-.second-page{
+.second-page {
   background-image: url(https://templatemo.com/templates/templatemo_504_page_one/img/bg-02.jpg);
 }
-.card-2{
-  background-color:rgba(255, 2555,255,0.6);
+.card-2 {
+  background-color: rgba(255, 2555, 255, 0.6);
   max-width: 600px;
   box-sizing: border-box;
   padding: 180px 50px 100px;
@@ -79,12 +79,10 @@ strong {
   display: block;
   margin-left: auto;
 }
-.card-2-heading{
+.card-2-heading {
   color: #0275d8;
   font-size: 2.6rem;
   font-weight: 400;
-  margin:0;
-  margin-bottom:30px;
-
-
+  margin: 0;
+  margin-bottom: 30px;
 }
