@@ -17,6 +17,7 @@ section {
   margin: 0 auto;
   scroll-margin: 90px;
   background-attachment: fixed;
+  background-repeat: no-repeat;
 }
 .main-content {
   margin: 0 auto;
@@ -66,4 +67,19 @@ strong {
   padding: 15px 30px;
   display: block;
   margin-left: auto;
+}
+.second-page{
+  background: none;
+  background-image: url(https://templatemo.com/templates/templatemo_504_page_one/img/bg-02.jpg);
+}
+.card-2{
+  background-color: white;
+  max-width: 500px;
+  margin: 180px 60px 100px;
+  box-sizing: border-box;
+}
+.card-2-heading{
+  color: #0275d8;
+  font-size: 2.6rem;
+  font-weight: 400;
 }
