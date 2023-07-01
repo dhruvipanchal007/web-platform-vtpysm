@@ -12,7 +12,7 @@ section {
   scroll-margin: 90px;
 }
 
-.first-page {
+.intro-page {
   background-image: url(https://templatemo.com/templates/templatemo_504_page_one/img/bg-01.jpg);
   background-position: center;
   background-size: cover;
@@ -23,33 +23,33 @@ section {
   padding: 0 15px;
   padding-bottom: 250px;
 }
-.heading {
+.intro-heading {
   text-align: center;
   padding-top: 80px;
   padding-bottom: 100px;
 }
-.sub-heading {
+.intro-sub-heading {
   font-size: 3rem;
   border: 2px solid #888481;
   padding: 30px 40px;
   display: inline-block;
   margin: 0;
 }
-.card {
+.intro-card {
   max-width: 600px;
   background-color: white;
   color: #606368;
   padding: 50px;
   padding-bottom: 50px;
 }
-.card-title {
+.intro-card-title {
   color: #96c700;
   font-size: 2.6rem;
   font-weight: 400;
   margin-bottom: 2rem;
   margin-top: 0;
 }
-.card-para {
+.intro-card-para {
   line-height: 1.8;
   font-size: 21px;
   font-weight: 400;
@@ -73,12 +73,12 @@ strong {
   color: white;
   background-color: #c9302c;
 }
-.second-page {
+.service-page {
   background-image: url(https://templatemo.com/templates/templatemo_504_page_one/img/bg-02.jpg);
   background-size: cover;
   background-attachment: fixed;
 }
-.card-2 {
+.service-card {
   background-color: rgba(255, 2555, 255, 0.6);
   max-width: 600px;
   box-sizing: border-box;
@@ -87,7 +87,7 @@ strong {
   display: block;
   margin-left: auto;
 }
-.card-2-heading {
+.service-card-heading {
   color: #0275d8;
   font-size: 2.6rem;
   font-weight: 400;
@@ -102,15 +102,15 @@ strong {
   font-size: 4em;
   margin-right: 15px;
 }
-.sub-para {
+.service-sub-para {
   font-size: 1rem;
 }
-.third-page {
+.gallery-page {
   background-image: url(https://templatemo.com/templates/templatemo_504_page_one/img/bg-03.jpg);
   background-size: cover;
   background-attachment: fixed;
 }
-.third-page-heading {
+.gallery-page-heading {
   margin: 0;
   padding-top: 180px;
   margin-left: auto;
@@ -119,12 +119,12 @@ strong {
   margin-bottom: 2rem;
   font-weight: 500;
 }
-.list {
+.gallery-list {
   list-style: none;
   display: flex;
   padding: 0;
 }
-.items {
+.gallery-items {
   background-color: white;
   margin-right: 15px;
   margin-bottom: 10px;
@@ -144,30 +144,30 @@ strong {
   max-width: 300px;
   height: 200px;
 }
-.four-page {
+.contact-page {
   background-image: url(https://templatemo.com/templates/templatemo_504_page_one/img/bg-04.jpg);
   background-size: cover;
 }
-.card-3 {
+.contact-card {
   background-color: rgba(255, 255, 255, 0.6);
   max-width: 600px;
   padding: 50px;
   padding-bottom: 300px;
 }
-.card-3-heading {
+.contact-card-heading {
   margin: 0;
   padding-top: 180px;
   font-size: 2.6rem;
   font-weight: 500;
   color: #983333;
 }
-.card-3-para {
+.contact-card-para {
   line-height: 1.8;
   font-size: 21px;
   font-weight: 500;
   margin-bottom: 2rem;
 }
-.form {
+.contact-form {
   display: flex;
   flex-direction: column;
 }
